@@ -37,12 +37,40 @@ Feel free to:
 
 ## Progress Tracker 📊
 
-| Day | Topic | Status |
-|-----|-------|--------|
-| 1   | TBA   | 🔜     |
-| 2   | TBA   | 🔜     |
-| ... | ...   | ...    |
-| 30  | TBA   | 🔜     |
+
+| Day | Topic                                           | Status |
+|-----|------------------------------------------------|--------|
+| 1   | Variables and Data Types                        | 🔜     |
+| 2   | Operators                                       | 🔜     |
+| 3   | Control Structures                              | 🔜     |
+| 4   | Loops                                           | 🔜     |
+| 5   | Functions                                       | 🔜     |
+| 6   | Arrays                                          | 🔜     |
+| 7   | Objects                                         | 🔜     |
+| 8   | ES6+ Features                                   | 🔜     |
+| 9   | DOM Manipulation                                | 🔜     |
+| 10  | Event Handling                                  | 🔜     |
+| 11  | Promises and Async/Await                        | 🔜     |
+| 12  | Error Handling                                  | 🔜     |
+| 13  | Modules                                         | 🔜     |
+| 14  | Classes                                         | 🔜     |
+| 15  | Closures                                        | 🔜     |
+| 16  | Recursion                                       | 🔜     |
+| 17  | Data Structures                                 | 🔜     |
+| 18  | Algorithms                                      | 🔜     |
+| 19  | Regular Expressions                             | 🔜     |
+| 20  | LocalStorage and SessionStorage                 | 🔜     |
+| 21  | LeetCode Easy                                   | 🔜     |
+| 22  | LeetCode Medium                                 | 🔜     |
+| 23  | LeetCode Hard                                   | 🔜     |
+| 24  | Project 1 - Weather App                         | 🔜     |
+| 25  | Project 2 - Movie Search App                    | 🔜     |
+| 26  | Project 3 - Chat Application                    | 🔜     |
+| 27  | Project 4 - Task Management App                 | 🔜     |
+| 28  | Project 5 - E-commerce Website                  | 🔜     |
+| 29  | Project 6 - Social Media Dashboard              | 🔜     |
+| 30  | Final - Social Media Dashboard with Full Stack  | 🔜     |
+
 
 ## Shoutouts 📣
 
