@@ -78,7 +78,7 @@ Massive thanks to "Chai Aur Code" for creating this challenge and inspiring us a
 
 ## Let's Connect! 🤝
 
-Are you also taking on this challenge? Or just curious about my progress? Let's chat! Drop me a message or connect with me on [Your Preferred Social Media].
+Are you also taking on this challenge? Or just curious about my progress? Let's chat! Drop me a message or connect with me on - LinkedIn: [Ratul Hasan Rabbi](https://www.linkedin.com/in/ratul-hasan-rabbi/)
 
 Remember, the journey of a thousand lines of code begins with a single keystroke. Let's make these 30 days count! 💪😄
 
