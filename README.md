@@ -74,7 +74,7 @@ Feel free to:
 
 ## Shoutouts 📣
 
-Massive thanks to "Chai Aur Code" for creating this challenge and inspiring us all to become better developers!
+Massive thanks to [Chai Aur Code](https://www.youtube.com/@chaiaurcode) for creating this challenge and inspiring us all to become better developers!
 
 ## Let's Connect! 🤝
 
