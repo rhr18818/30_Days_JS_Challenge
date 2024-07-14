@@ -40,7 +40,7 @@ Feel free to:
 
 | Day | Topic                                           | Status |
 |-----|------------------------------------------------|--------|
-| 1   | Variables and Data Types                        | 🔜     |
+| 1   | Variables and Data Types                        | ✅     |
 | 2   | Operators                                       | 🔜     |
 | 3   | Control Structures                              | 🔜     |
 | 4   | Loops                                           | 🔜     |
