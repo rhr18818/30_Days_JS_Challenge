@@ -42,8 +42,8 @@ Feel free to:
 |-----|------------------------------------------------|--------|
 | 1   | Variables and Data Types                        | ✅     |
 | 2   | Operators                                       | ✅     |
-| 3   | Control Structures                              | 🔜     |
-| 4   | Loops                                           | 🔜     |
+| 3   | Control Structures                              | ✅     |
+| 4   | Loops                                           | ✅     |
 | 5   | Functions                                       | 🔜     |
 | 6   | Arrays                                          | 🔜     |
 | 7   | Objects                                         | 🔜     |
